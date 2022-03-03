@@ -5,6 +5,8 @@ I am a ~~newbie~~ python programmer from Moscow who is **currently available for
 ## Here are some of my statistics:
 [![Rozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoziePlaysPython)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # <a name="contact">Contact me here</a>
 
