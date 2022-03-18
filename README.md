@@ -1,6 +1,6 @@
 # Welcome
 ## to Rozie's GitHub page!
-I am a ~~newbie~~ python programmer from Moscow who is **currently available for hiring!** [Contact](#contact)
+I am a ~~newbie~~ python programmer from Moscow who is **currently available for hiring!**
 
 <!---
 ## Here are some of my statistics:
