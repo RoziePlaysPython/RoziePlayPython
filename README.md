@@ -9,7 +9,7 @@ Learning and doing programming-related stuff according to my own needs and curio
 <!-- I use arch linux btw. Also 🏳️‍⚧️Trans Rights!🏳️‍⚧️ -->
 ## Currently learning:
  - [<img src="/.icons/postgresql-logo.svg" width="12">](https://www.postgresql.org/) PostgreSQL
- - [<img src="/.icons/django-logo.svg" width="12">](https://www.djangoproject.com/) Django
+ - [<img src="/.icons/django-logo.ico" width="12">](https://www.djangoproject.com/) Django
  - [<img src="/.icons/pytorch-logo.ico" width="12">](https://pytorch.org/) PyTorch
  - HTML/CSS/JS
 
