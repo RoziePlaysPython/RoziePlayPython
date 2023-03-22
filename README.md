@@ -5,13 +5,13 @@ Learning and doing programming-related stuff according to my own needs and curio
  - [<img src="/.icons/python-logo.png" width="12">](https://www.python.org) Python 3
  - [<img src="/.icons/ptb-logo.png" width="12">](https://docs.python-telegram-bot.org/en/v20.0a2/) python-telegram-bot
  - [<img src="/.icons/not-actual-btsoup-logo.png" width="12">](https://beautiful-soup-4.readthedocs.io/en/latest/) Beautiful Soup 4
- - Flask
+ - [<img src="/.icons/flask-logo.png" width="12">](https://flask.palletprojects.com/) Flask
 <!-- I use arch linux btw. Also 🏳️‍⚧️Trans Rights!🏳️‍⚧️ -->
 ## Currently learning:
  - [<img src="/.icons/postgresql-logo.svg" width="12">](https://www.postgresql.org/) PostgreSQL
- - FastAPI
- - Django
+ - [<img src="/.icons/django-logo.svg" width="12">](https://www.djangoproject.com/) Django
  - [<img src="/.icons/pytorch-logo.ico" width="12">](https://pytorch.org/) PyTorch
+ - HTML/CSS/JS
 
 
 # <a name="contact">Contact me here</a>
