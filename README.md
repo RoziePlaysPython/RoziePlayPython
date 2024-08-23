@@ -1,24 +1,34 @@
-# About me:
-<!-- btw this intro is ai generated lmao -->
-Hi, I’m a beginner python programmer who loves to build web applications and telegram bots. I enjoy exploring the capabilities of coding itself, learning something new everyday. Feel free to check out my projects and repositories, and let me know what you think.
-<!-- I had to cleanse some "corporate bullshit" from it, but I think it looks nicer now, than it was before.
-Oh crap, really, the day will come where we'll forget how to text each other without the help of AI-->
+# Hello, I'm xrzi! 👋
 
-## My toolbox:
- - [<img src="/.icons/python-logo.png" width="12">](https://www.python.org) Python 3
- - [<img src="/.icons/ptb-logo.png" width="12">](https://docs.python-telegram-bot.org/en/v20.0a2/) python-telegram-bot
- - [<img src="/.icons/not-actual-btsoup-logo.png" width="12">](https://beautiful-soup-4.readthedocs.io/en/latest/) Beautiful Soup 4
- - [<img src="/.icons/flask-logo.png" width="12">](https://flask.palletprojects.com/) Flask
-<!-- I use arch linux btw. Also 🏳️‍⚧️Trans Rights!🏳️‍⚧️ -->
-## Currently learning:
- - [<img src="/.icons/postgresql-logo.svg" width="12">](https://www.postgresql.org/) PostgreSQL
- - [<img src="/.icons/django-logo.ico" width="12">](https://www.djangoproject.com/) Django
- - [<img src="/.icons/pytorch-logo.ico" width="12">](https://pytorch.org/) PyTorch
- - HTML/CSS/JS
+I'm a (hireable btw) versatile developer with experience in multiple programming languages and various areas of software development.
 
+## Skills
 
+ - Languages: Python (main), Rust, C/C++;
+ - DevOps: Linux, Docker, CI/CD, Bash;
+ - Frameworks/Libraries: Flask, Django, FastAPI, aiohttp, SQLAlchemy;
+ - Bots: telegram-bot-api, aiogram;
+ - Other: Selenium, BeautifulSoup4, requests;
 
+## Notable Projects
+### Python Projects
 
-# <a name="contact">Contact me here</a>
+ - minesweeper_tui: A classic minesweeper game with terminal graphics
+ - pomodoro_bot: A Telegram bot for team productivity
+ - TokenValidityCheck: A module to check Telegram API token validity
+ - pngix_scraper: A script for scraping pngix.com
+ - typing_trainer: A terminal-based typing trainer
+ - gaussian_blur: Python implementation of Gaussian blur from scratch
 
-[<img src="/.icons/telegram_logo_circle_icon.png" width="64">](https://t.me/uwuashell)
+### Rust Projects
+
+ - (WIP/private) rustodo: A Rust-based to-do app with a command line interface
+ - PWGen-GUI: A Rust-based password generator with a GUI
+
+### Web Development
+
+ - roziewebspace: My personal homepage built on Flask and pure HTML/CSS/JS
+
+# Contact me here
+
+[<img src="/.icons/telegram_logo_circle_icon.png" width="64">](https://t.me/tenacious_rzi)
