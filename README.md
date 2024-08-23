@@ -32,3 +32,5 @@ I'm a (hireable btw) versatile developer with experience in multiple programming
 # Contact me here
 
 [<img src="/.icons/telegram_pfp_icon.png" width="64">](https://t.me/tenacious_rzi)
+
+Telegram
